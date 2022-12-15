@@ -1,2 +1,2 @@
 # SANET_download
-for temporally SANET_standalone download
+This repositry is created to be download SANET_standalone.
